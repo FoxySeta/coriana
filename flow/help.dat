@@ -1,0 +1,26 @@
+{
+    "messages": [
+        {
+            "type": "sticker",
+            "sticker": "scared"
+        },
+        {
+            "type": "text",
+            "text": "Oh, no! Non sai come comunicare con me? Meglio occuparsene subito. Hai due opzioni:"
+        },
+        {
+            "type": "text",
+            "text": "1. usare un comando (digita '/' per consultarli)"
+        },
+        {
+            "type": "text",
+            "text": "2. usare una delle risposte preimpostate che compariranno dopo la maggior parte delle mie risposte"
+        }
+    ],
+    "answers" : [
+        {
+            "text": "Cominciamo!",
+            "state": "start"
+        }
+    ]
+}

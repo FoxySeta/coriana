@@ -1,0 +1,26 @@
+{
+    "messages": [
+        {
+            "type": "sticker",
+            "sticker": "ok"
+        },
+        {
+            "type": "text",
+            "text": "Niente paura, ci sono qui io!\nAllora, da dove cominciamo?"
+        }
+    ],
+    "answers": [
+        {
+            "text": "Da un certo corso...",
+            "state": "work_in_progress"
+        },
+        {
+            "text": "Da una certa disciplina...",
+            "state": "work_in_progress"
+        },
+        {
+            "text": "Non ne ho idea.",
+            "state": "work_in_progress"
+        }
+    ]
+}

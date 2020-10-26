@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "type": "text",
+            "text": "Mi chiamo Coriana e sono un robot. Lo studente che mi ha sviluppata mi ha insegnato a dare una mano agli open day del mio liceo."
+        },
+        {
+            "type": "text",
+            "text": "Per farla corta, sono un brevissimo programma che viene eseguito da un server in un qualche punto del globo."
+        },
+        {
+            "type": "text",
+            "text": "Faccio uso di un frasario da cui prendo le mie risposte. Ah, e ho anche una mia piccola libreria di sticker!"
+        }
+    ],
+    "answers": [
+        {
+            "text": "Ho capito.",
+            "state": "start"
+        }
+    ]
+}

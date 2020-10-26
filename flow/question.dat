@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "type": "text",
+            "text": "Sono a tua disposizione."
+        }
+    ],
+    "answers": [
+        {
+            "text": "Cosa sai del Liceo Oriani?",
+            "state": "oriani"
+        },
+        {
+            "text": "Quando sono gli open day?",
+            "state": "dates"
+        },
+        {
+            "text": "Sono a un open day. Aiuto!",
+            "state": "open_day"
+        }
+    ]
+}

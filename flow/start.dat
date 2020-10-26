@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "type": "sticker",
+            "sticker": "bored"
+        },
+        {
+            "type": "text",
+            "text": "Mi annoio. Chiedimi qualcosa.\n(Usa /help se non sai come.)"
+        }
+    ],
+    "answers": [
+        {
+            "text": "Chi sei?",
+            "state": "about_me"
+        },
+        {
+            "text": "Avrei una domanda per te.",
+            "state": "question"
+        }
+    ]
+}

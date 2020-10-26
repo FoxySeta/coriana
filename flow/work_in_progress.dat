@@ -1,0 +1,18 @@
+{
+    "messages": [
+        {
+            "type": "sticker",
+            "sticker": "crunching"
+        },
+        {
+            "type": "text",
+            "text": "Non so ancora come aiutarti allora, mi dispiace..."
+        }
+    ],
+    "answers": [
+        {
+            "text": "Capisco.",
+            "state": "start"
+        }
+    ]
+}

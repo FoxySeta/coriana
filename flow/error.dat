@@ -1,0 +1,12 @@
+{
+    "messages": [
+        {
+            "type": "sticker",
+            "sticker": "crying"
+        },
+        {
+            "type": "text",
+            "text": "Mi dispiace, non capisco cosa tu voglia dire. Prova con /help."
+        }
+    ]
+}

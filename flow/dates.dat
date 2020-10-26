@@ -1,0 +1,14 @@
+{
+    "messages": [
+        {
+            "type": "text",
+            "text": "Richiedimelo fra un po' di tempo e avrai le date aggiornate!"
+        }
+    ],
+    "answers": [
+        {
+            "text": "Uffa...",
+            "state": "question"
+        }
+    ]
+}

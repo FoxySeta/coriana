@@ -1,0 +1,14 @@
+{
+    "messages": [
+        {
+            "type": "text",
+            "text": "Ecco un link a proposito: https://www.liceoscientificoravenna.edu.it/pagina.asp?id=1"
+        }
+    ],
+    "answers": [
+        {
+            "text": "Grazie!",
+            "state": "question"
+        }
+    ]
+}
